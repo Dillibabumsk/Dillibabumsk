@@ -1,10 +1,4 @@
-## Hi there 👋
 
-- 🔭 I’m currently working on Design App
-- 🌱 I’m currently learning Ansys
-- 🤔 I’m looking for help with Intern
-- 💬 Ask me about Design 
-- 📫 How to reach me: dillibabu001msk@gmail.com
 <h1 data-importer="text" align="left">Hey 👋 I'm Dilli</h1>
 
 ###
@@ -15,7 +9,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am a Designer</p>
+<H2 data-importer="text" align="center">"I am a Designer/Web Developer"</H2>
 
 ###
 
@@ -57,5 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="39" alt="android logo"  />
 </div>
 
+<h2 data-importer="text" align="center">My Contribution</h2>
 
+###
 ![snake gif](https://github.com/Dillibabumsk/Dillibabumsk/blob/output/github-snake-dark.svg)
